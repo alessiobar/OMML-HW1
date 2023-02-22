@@ -1,5 +1,5 @@
 #Import the MLP class, the datasets and the libaries of Question 1
-from run_3_OptimizedNoobs import *
+from run_3 import *
 
 # Function to pre-fetch the Network Parameters and the HyperParameters from a .pkl file
 def ICanGeneralize(X_new):
