@@ -1,5 +1,5 @@
 # Import the MLP class, the datasets and the libaries of Question 1
-from run_21_OptimizedNoobs import *
+from run_21 import *
 
 #Import the best parameter v previously found
 with open('bestVParam.pkl', 'rb') as f:
