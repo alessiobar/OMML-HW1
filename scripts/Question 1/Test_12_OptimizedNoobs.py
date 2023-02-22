@@ -1,5 +1,5 @@
 import pickle
-from functions_22 import *
+from functions_12 import *
 from run_12_OptimizedNoobs import *
 def ICanGeneralize(X_test):
     #params, train_errors, y, num_grad, num_eval = fit(X_train, Y_train, N = 30, sigma = 1.2, r = 0.01, learning_rate = 0.01, number_of_iterations = 2)
