@@ -1,7 +1,7 @@
-""" QUESTION 2 - OptimizedNoobs Group """
+""" QUESTION 2 """
 
 #Import the MLP class, the datasets and the libaries of Question 1
-from run_11_OptimizedNoobs import *
+from run_11 import *
 
 #Import the best hyperparameters previously found
 with open('bestHyperParams.pkl', 'rb') as f:
